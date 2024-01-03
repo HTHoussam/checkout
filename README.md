@@ -1,8 +1,9 @@
-# RUN tutotial 
+# RUN tutorial 
 ```npm install ```
+
 ```npm run dev ```
 -> then access localhost:3000
-
+# Recommended node version: 20.10.0
 
 # React + TypeScript + Vite
 
